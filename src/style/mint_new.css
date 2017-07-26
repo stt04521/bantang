@@ -1,0 +1,15 @@
+/*覆盖 mint 样式*/
+
+.mint-swipe-indicator{
+  display: inline-block;
+  opacity: 1;
+  background: white;
+  margin: 0 3px;
+  width: 0.29rem;
+  height: 0.29rem;
+  border: 1px solid #ff6600;
+  border-radius: 50%;
+}
+.mint-swipe-indicator.is-active{
+  background: #ff6600;
+}
