@@ -1,6 +1,6 @@
 # bt
 
-> mall
+> mall vue 的个人项目 可能比较忙 写的比较慢
 
 ## Build Setup
 
